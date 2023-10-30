@@ -1,5 +1,5 @@
 # Hi 👋, I'm Matheus Patrick
-### Full Stack Developer Jr
+### Full Stack Developer
 
 ---
 
